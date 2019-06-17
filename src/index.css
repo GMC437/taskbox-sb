@@ -992,3 +992,9 @@
    vertical-align: top;
    max-width: 100%;
  }
+ .icon-star:before {
+    content: "\e608";
+  }
+  .icon-star-hollow:before {
+    content: "\e609";
+  }
